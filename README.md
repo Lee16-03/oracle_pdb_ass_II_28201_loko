@@ -8,6 +8,7 @@ I created the required PDB:
 The PDB was successfully opened and verified in `READ WRITE` mode.
 The required user was also verified inside the PDB:
 `LOKO_PLSQLAUCA_28201`
+By following those step on the oracle book, I tried to alter the PDB that I created to be more familiar with all options we have to do, so it was not easy because I face some issues like forgot to grant it like administrator 
 ## Task 2: Creation and Deletion a Temporary PDB
 I created the temporary PDB:
 `LO_TO_DELETE_PDB_28201`
